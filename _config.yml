@@ -1,2 +1,3 @@
 name: Oleksandr Yaroshchuk, Ukrainian journalist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
