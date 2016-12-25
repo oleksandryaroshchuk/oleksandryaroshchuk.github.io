@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Oleksandr Yaroshchuk, Ukrainian journalist, Launches Site"
+title: "To Sew Ukraine"
 date: 2016-12-26
 ---
 
-Well. Finally got around to putting this old website together. 
+Well. I have published my first story. 
+<a href="https://medium.com/@AlexYaroshchuk/to-sew-ukraine-ccb3073aa7a4">To Sew Ukraine</a>
+
